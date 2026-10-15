@@ -1,0 +1,1 @@
+"""Financial ledger application."""
